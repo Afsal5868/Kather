@@ -9,6 +9,13 @@ public class DemoGit {
 		
 		int b =123;
 		System.out.println(b);
+		
+
+		String s1="Kather";
+		System.out.println(s1);
+
+	
+
 	}
 
 }
