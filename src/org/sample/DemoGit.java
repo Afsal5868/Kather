@@ -6,6 +6,9 @@ public class DemoGit {
 		System.out.println(a);
 		String s ="Afsal";
 		System.out.println(s);
+		
+		String s1="Kather";
+		System.out.println(s1);
 	}
 
 }
