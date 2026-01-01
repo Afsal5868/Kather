@@ -7,8 +7,15 @@ public class DemoGit {
 		String s ="Afsal";
 		System.out.println(s);
 		
+		int b =123;
+		System.out.println(b);
+		
+
 		String s1="Kather";
 		System.out.println(s1);
+
+	
+
 	}
 
 }
